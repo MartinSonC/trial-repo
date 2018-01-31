@@ -11,5 +11,9 @@ public class Remember {
 	public static void main(String[] args) {
 		
 	}
+	
+	public void static printRemember() {
+		System.out.println("Use \"\\\\\" to obtain a ’backslash’ character.");
+	}
 
 }
