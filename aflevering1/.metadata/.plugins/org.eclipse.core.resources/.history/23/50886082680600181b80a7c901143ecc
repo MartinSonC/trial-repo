@@ -1,0 +1,20 @@
+package opgave2;
+
+public class UltimateQuestion {
+	
+	public static void main(String[] args) {
+		
+		Betragt følgende ukomplette program.
+		public class UltimateQuestion {
+		public static void main(String[] args) {
+		// ???
+		System.out.println(1 + 3 + x + x + x + x + x + 5 / 4 * 2);
+		}
+		}
+		Erstat kommentaren med en variabel-deklaration, så programmet udskriver følgende linje:
+		42
+		Tip: Der skal ikke deklareres en heltals-variabel.
+		
+	}
+
+}
